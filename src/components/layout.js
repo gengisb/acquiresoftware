@@ -2,8 +2,7 @@ import React from "react";
 import { Link } from "gatsby";
 import { ThemeToggler } from "gatsby-plugin-dark-mode";
 import FooterSocialIcons from "./footer-social-icons";
-import MoonSvg from '../assets/moon.svg';
-import SunSvg from '../assets/sun.svg';
+
 
 const Layout = ({ location, title, children }) => {
   const rootPath = `${__PATH_PREFIX__}/`
