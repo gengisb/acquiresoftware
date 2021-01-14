@@ -37,7 +37,7 @@ const Layout = ({ location, title, children }) => {
               <button className="toggle-button header-nav-link"
                 onClick={e => toggleTheme(theme === 'light' ? 'dark' : 'light')}
               >
-                <img src={theme === "dark" ? SunSvg : MoonSvg} alt="toggle theme" className="sun-moon"/>
+   
               </button>
             </div>
           </header>
