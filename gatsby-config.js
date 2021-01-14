@@ -2,6 +2,7 @@
 const siteConfig = require('./config.js');
 
 module.exports = {
+	
   siteMetadata: {
     title: siteConfig.title,
     author: siteConfig.author,

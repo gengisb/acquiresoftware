@@ -7,7 +7,7 @@ module.exports = {
   title: `Nice Blogs`,
   disqusShortname: '',
   postsPerPage: 15,
-  googleAnalyticsId: '',
+  googleAnalyticsId: 'Your google analytics id',
   useKatex: false,
   author: {
     name: `Abhay Nikam`,
