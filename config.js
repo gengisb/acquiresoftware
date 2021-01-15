@@ -1,13 +1,13 @@
 'use strict';
 
 module.exports = {
-  url: `https://abhaynikam.github.io/gatsby-nice-blog/`,
-  description: `A nice starter blog post boilerplate template built using Gatsby.`,
+  url: `https://acquire.software/`,
+  description: `Technical Sales Engineering Lessons`,
   pathPrefix: '/',
   title: `Selling Technical`,
   disqusShortname: '',
   postsPerPage: 25,
-  googleAnalyticsId: 'Your google analytics id',
+  googleAnalyticsId: 'G-ZHNS95LGK1',
   useKatex: false,
   author: {
     name: `Gengis`,
