@@ -40,7 +40,7 @@ const Layout = ({ location, title, children }) => {
           <footer className="d-flex">
             <div className="copyright-text">
               Copyright © {new Date().getFullYear()},&nbsp;
-            TOTO
+            Gen
             </div>
             <div className="footer-icon-group">
               <FooterSocialIcons />
