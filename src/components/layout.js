@@ -33,11 +33,7 @@ const Layout = ({ location, title, children }) => {
               <Link className="header-nav-link" to="/pages/about/">
                 About
               </Link>
-              <button className="toggle-button header-nav-link"
-                onClick={e => toggleTheme(theme === 'light' ? 'dark' : 'light')}
-              >
-   
-              </button>
+         
             </div>
           </header>
           <main>{children}</main>
